@@ -4,7 +4,7 @@
 ----------------------------------------------------
 #### ☕ Skills: 
 
- - Data Scientist: 
+ - `Data Scientist`: 
      - Programming Language: Python
      - Libraries and Frameworks: Numpy, Pandas, Tensorflow, Keras, 
                                  Scikit-learn, Scipy, Matplotlib, Seaborn,
