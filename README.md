@@ -14,7 +14,7 @@
  - `Full-Stack Development`:
      - **Markup Language**: HTML
      - **Style Language**: CSS
-     - **Programing Language**: Javascript ES6 
+     - **Programing Languages**: Javascript ES6 and Python 
      - **Libraries and Frameworks**: ReactJS, Styled Components, React-router-dom, Express, Jquery
      - **Databases**: SQL, MongoDB
      - **Tools**: VS Code, Git, Github, Figma
