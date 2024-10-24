@@ -32,11 +32,11 @@ I am a Software and AI Engineer with over five years of experience working in th
 
 ## 🏆 **Experience**
 
-### 1. **AI Software Engineer & Creator of AISE**  
-An open-source framework designed to create **autonomous models** that learn by managing internal states, focusing on long-term resource management, such as **financial resources** or **health data**.
+### 1. **AI Software Engineer & Creator of AISE (In Development)**   
+Developing **AISE (Adaptive Intelligence System through Entropy)**, an open-source framework for creating **autonomous agents** that manage internal resources and learn to act adaptively within dynamic environments to ensure long-term survival.
 
-### 2. **AI-Driven Marketplace Developer**  
-Developed a **marketplace integrated with generative AI technologies**, providing search, product descriptions, and comparisons, offering users enhanced shopping experiences.
+### 2. **AI-Driven Marketplace Developer (In Development)**  
+Currently developing a **marketplace integrated with generative AI technologies**, aimed at enhancing user experience by providing AI-powered product searches, descriptions, and comparisons to simplify purchasing decisions.
 
 ### 3. **Software Engineer at GrumpyLabz**  
 Built an end-to-end **gamified video social network**, implementing **matching algorithms** and a **recommendation system** based on **semantic vectors** for personalized content delivery.
